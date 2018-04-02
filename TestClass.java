@@ -1,4 +1,5 @@
 //call needed classes
+//made some changes blablabla
 import java.util.Random;
 import java.util.Scanner;
 
