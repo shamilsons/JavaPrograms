@@ -1,0 +1,31 @@
+.root{
+    -fx-background-color: #555675;
+    -fx-font-family: "Courier New";
+}
+
+.label{
+    -fx-text-fill: #E8E8E8;
+    -fx-font-family: "Arial";
+    -fx-font-size: 22px;	
+}
+
+.button{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+    -fx-border-color: #E8E8E8 transparent transparent transparent;	
+}
+
+.button-blue{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+    -fx-padding: 6 7 7 6;
+    -fx-font-size: 22px;
+    -fx-cursor: hand;	
+}
+
+#bold-label{
+    -fx-font-weight: bold;
+    -fx-text-fill: red;	
+}

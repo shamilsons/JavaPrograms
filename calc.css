@@ -1,0 +1,26 @@
+.label {
+	-fx-text-fill: green;
+	-fx-font-family:"Arial black";
+	-fx-font-size:12pt;
+}
+.button {
+	-fx-border-color: blue;
+	-fx-font-size: 12pt;
+	-fx-font-weight: bold;
+	-fx-border-radius:20;
+	-fx-border-width:2;
+	-fx-background-color: transparent;
+}
+
+.button:hover {
+	-fx-border-color: cyan;
+}
+
+.button:pressed {
+	-fx-border-color: red;
+}
+
+#textarea {
+	-fx-marin-bottom: 5px;
+	-fx-height: 10px;
+}
